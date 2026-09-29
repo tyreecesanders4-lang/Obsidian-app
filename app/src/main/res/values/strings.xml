@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Obsidian Pulse</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_now_playing">Player</string>
+    <string name="nav_equalizer">10-Band EQ</string>
+    <string name="nav_lyrics">Lyrics</string>
+    <string name="nav_ai_assistant">Voice AI</string>
+    <string name="search_placeholder">Search title, artist, album, genre, or BPM…</string>
+    <string name="scan_device_audio">Import Audio</string>
+    <string name="scan_folder">Scan Folder</string>
+    <string name="tab_all_songs">All Songs</string>
+    <string name="tab_albums">Albums</string>
+    <string name="tab_artists">Artists</string>
+    <string name="tab_playlists">Playlists</string>
+    <string name="dsp_equalizer_title">10-Band Parametric &amp; Graphic DSP</string>
+    <string name="voice_assistant_title">Pulse AI Voice &amp; Discovery Engine</string>
+    <string name="offline_privacy_mode">Offline Privacy Mode (Local Parser)</string>
+    <string name="ad_free_badge">AD-FREE STUDIO</string>
+</resources>

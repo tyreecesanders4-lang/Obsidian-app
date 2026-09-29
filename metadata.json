@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Pulse",
+  "description": "Ad-free dark glassmorphism music player, local media hub, 10-band DSP equalizer, real-time 32-bar audio visualizer, synced LRC lyrics, and AI voice assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
